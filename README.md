@@ -1,3 +1,4 @@
 # Automated-Size-Based-Sorting-Machine
 
 ### A sorting machine was designed and implemented to sort objects by height. For simplification, 2 sizes were used. The system was designed and implemented in both software and hardware. The system was created and simulated first on FluidSIM Software. The design was then created using SOLIDWORKS, which was then implemented using wood. The cylinders were used to push the objects around and sort them based on the sensor signals. The relays were used to keep certain cylinders extended or retracted to properly sort the objects. Finally the whole system was connected properly using the Controller Operating Panel. The hardware was as accurate as the software.
+### We had a technical problem at the time of presentation: the sensor stopped functioning, so we manually setting the output.
